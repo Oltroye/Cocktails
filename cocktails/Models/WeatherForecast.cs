@@ -1,4 +1,4 @@
-namespace WebApplication4.Models
+namespace cocktails.Models
 {
     public class WeatherForecast
     {

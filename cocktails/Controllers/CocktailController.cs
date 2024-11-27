@@ -1,7 +1,9 @@
-﻿using System.Security.Cryptography;
+﻿using cocktails.Models;
+using cocktails.Lists;
+using System.Security.Cryptography;
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApplication4.Controllers
+namespace cocktails.Controllers
 {
     [ApiController]
     [Route("[controller]")]

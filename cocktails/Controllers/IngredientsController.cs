@@ -1,6 +1,9 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using cocktails.Models;
+using cocktails.Lists;
 
-namespace WebApplication4.Controllers
+using Microsoft.AspNetCore.Mvc;
+
+namespace cocktails.Controllers
 {
     [ApiController]
     [Route("[controller]")]

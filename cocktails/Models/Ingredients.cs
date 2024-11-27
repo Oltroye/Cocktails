@@ -1,4 +1,4 @@
-﻿namespace WebApplication4
+﻿namespace cocktails.Models
 {
     public class Ingredients
     {

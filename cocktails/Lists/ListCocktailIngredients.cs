@@ -1,4 +1,6 @@
-﻿namespace WebApplication4
+﻿using cocktails.Models;
+
+namespace cocktails.Lists
 {
     public class ListCocktailIngredients
     {

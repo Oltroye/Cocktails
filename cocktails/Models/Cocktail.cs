@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace WebApplication4
+namespace cocktails.Models
 {
     public class Cocktail
     {
