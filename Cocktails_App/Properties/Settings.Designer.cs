@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CocktailsApp.Properties
+namespace Cocktails_App.Properties
 {
 
 

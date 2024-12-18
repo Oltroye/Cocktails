@@ -1,4 +1,4 @@
-﻿namespace CocktailsApp
+﻿namespace Cocktails_App
 {
     partial class Form1
     {

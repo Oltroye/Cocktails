@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{48F122F3-55E8-4E29-9A8A-2F56A733BE21}</ProjectGuid>
+    <ProjectGuid>{FCDCF1B6-577D-4B3E-96A0-753325EAF5B6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>CocktailsApp</RootNamespace>
-    <AssemblyName>CocktailsApp</AssemblyName>
+    <RootNamespace>Cocktails_App</RootNamespace>
+    <AssemblyName>Cocktails_App</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
